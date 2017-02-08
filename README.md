@@ -20,7 +20,7 @@ Time                 | Day 1      | Day 2         | Day 3       | Day 4         
 **9:05am Module 2**  | Labor Day |   Icebreakers      |  [Lab:][1-2B]  |  [Functions][1-3D] 
 **9:10pm Module 3**  | Labor Day  |  [How][1-1C]  |   [Java][1-2C] | Outcomes 
 **9:15pm Module 4**  | Labor Day | [Navigating][1-1D]  |   [JS][1-2D] |  [DOM][1-4C]        
-**Training**         | Labor Day | [Command][1-1E] + [CSS ][1-1F] |  [Lab: J][1-2E]  + Finish Labs   
+**Training**         | Labor Day | [Command][1-1E] + [CSS ][1-1F] |  [Lab: J][1-2E] | ths
 
 [1-1C]: https://github.com/sf-wdi-gaia/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-gaia/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
