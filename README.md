@@ -15,13 +15,12 @@ Time        | Monday     | Tuesday      | Wednesday    | Thursday
 
 #### Week 0 - Fundamentals
 
- Time       | Day 1      | Day 2         | Day 3       | Day 4                                                                           
------       | --------   | --------------| ------------| ------------------------     
-**9:00am Module 1**   | Labor Day |  Orientation        |  [CSS][1-2A]    | [Function][1-3C]  
-**10:45am Module 2**  | Labor Day |   Icebreakers      |  [Lab:][1-2B]  |  [Functions][1-3D] 
-**1:15pm Module 3**   | Labor Day  |  [How][1-1C]  |   [Java][1-2C] | Outcomes 
-**3:00pm Module 4**   | Labor Day | [Navigating][1-1D]  |   [JS][1-2D] |  [DOM][1-4C]        
-**Training**          | Labor Day | [Command][1-1E] + [CSS ][1-1F] |  [Lab: J][1-2E]  + Finish Labs   
+Time                 | Day 1      | Day 2         | Day 3       | Day 4                                                                     -----                | --------   | --------------| ------------| ------------------------     
+**9:00am Module 1**  | Labor Day |  Orientation        |  [CSS][1-2A]    | [Function][1-3C]  
+**9:05am Module 2**  | Labor Day |   Icebreakers      |  [Lab:][1-2B]  |  [Functions][1-3D] 
+**9:10pm Module 3**  | Labor Day  |  [How][1-1C]  |   [Java][1-2C] | Outcomes 
+**9:15pm Module 4**  | Labor Day | [Navigating][1-1D]  |   [JS][1-2D] |  [DOM][1-4C]        
+**Training**         | Labor Day | [Command][1-1E] + [CSS ][1-1F] |  [Lab: J][1-2E]  + Finish Labs   
 
 [1-1C]: https://github.com/sf-wdi-gaia/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-gaia/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
