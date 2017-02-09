@@ -1,7 +1,8 @@
 LinkedIn Workshop Bootcamp 6 Week Breakdown
 
 1. Intro To LinkedIn
-''* Monday
+
+''1. Monday
 
 2. Parsing through company info
 
