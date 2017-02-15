@@ -13,7 +13,7 @@ Time        | Monday     | Tuesday      | Wednesday    | Thursday
 #### Week 1 - Introduction To LinkedIn
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
-**9:00AM** |[Create LinkedIn][1-1A]| [Add Personal Info][1-1B]| [The Dream (IT)][1-1C] | [Company Presence][1-1D] | 
+**9:00AM** |[Create LinkedIn][1-1A]| [Add Personal Info][1-1B]| [Add Classmates][1-1C] | [Follow Influencers][1-1C] | 
 
 [1-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
 [1-1B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
